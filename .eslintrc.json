@@ -20,7 +20,7 @@
     ],
     "rules": {
         "import/no-unresolved": "off",
-        "react/prop-types": "off",
+        "react/prop-types": [2],
         "no-console": "off",
         "no-use-before-define": "off",
         "no-param-reassign": "off",
